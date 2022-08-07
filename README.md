@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/Arjun-Aravind/Arjun-Aravind/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arjun Aravind</h1>
-<h3 align="center">A passionate ethical hacking student from India</h3>
+<h3 align="center">A passionate Ethical hacking student from India</h3>
 
 <p align="left"> <a href="https://twitter.com/cyberd0m" target="blank"><img src="https://img.shields.io/twitter/follow/cyberd0m?logo=twitter&style=for-the-badge" alt="cyberd0m" /></a> </p>
 
