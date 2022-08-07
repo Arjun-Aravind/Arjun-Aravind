@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Aravind</h1>
 <h3 align="center">A passionate Ethical hacking student from India</h3>
 I'm Arjun from India. A third year Electronics and communication engineering student with a strong interest in the field of Cybersecurity. Currently self-learning Ethical hacking and does Bug bounty hunting during free time for practise and gaining more intraction with live web-application targets.
-
+<br>
 <p align="left"> <a href="https://twitter.com/cyberd0m" target="blank"><img src="https://img.shields.io/twitter/follow/cyberd0m?logo=twitter&style=for-the-badge" alt="cyberd0m" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking**
