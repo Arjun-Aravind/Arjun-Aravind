@@ -1,21 +1,20 @@
 ![Design and Development](https://github.com/Arjun-Aravind/Arjun-Aravind/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Arjun Aravind</h1>
-<h3 align="center">A passionate Ethical hacking student from India</h3>
-I'm Arjun from India. An Electronics and communication engineering graduate with a strong interest in the field of Cybersecurity, and also in Full Stack Development. Currently self-learning Ethical hacking and does Bug bounty hunting during free time for practise and gaining more intraction with live web-application targets.
+<h3 align="center">A passionate Software Developer from India</h3>
+I'm Arjun Aravind. An Electronics and communication engineering graduate with a strong interest in Full Stack Development and Cybersecurity. Currently working as a Software developer.
 
 <br></br>
 <h3 align="center">Connect with me on:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/aravindarjun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Cyberd0m"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/_.a_r_ju_n._/"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently working as a **Software Developer**
 
-- 👨‍💻 Also doing projects in **Full Stack Development**
+- 👨‍💻 Doing projects in **Full Stack Development**
 
 - 💬 Ask me about **Web-Application pen-testing and Bug Bounty Hunting**
 
