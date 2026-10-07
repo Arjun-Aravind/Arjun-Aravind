@@ -1,68 +1,30 @@
-![Design and Development](https://github.com/Arjun-Aravind/Arjun-Aravind/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Arjun Aravind</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-I'm Arjun Aravind. An Electronics and communication engineering graduate with a strong interest in Full Stack Development and Cybersecurity. Currently working as a Software developer.
-
-<br></br>
-<h3 align="center">Connect with me on:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/aravindarjun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Cyberd0m"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+<h3 align="center">Hi, I'm Arjun Aravind</h3>
+<p align="center"><b>Backend Engineer</b><br>
+Distributed systems, real-time platforms and AI infrastructure.<br>
+Python • FastAPI • Kafka • Redis • Go • Kubernetes • Azure</p>
 
 ---
 
-- 🌱 I’m currently working as a **Software Developer**
+I build backend systems that have to stay fast and correct under load: real-time voice AI, event pipelines, and the platforms AI agents run on. I'm happiest in the hard middle of a system, where concurrency, failover and latency budgets decide whether it holds up in production.
 
-- 👨‍💻 Doing projects in **Full Stack Development**
+### What I've built
 
-- 💬 Ask me about **Web-Application pen-testing and Bug Bounty Hunting**
+- **Real-time voice AI platform**: 500+ concurrent calls under 800ms, with distributed scheduling peaking at 500,000 calls/day
+- **Kafka notification platform**: 10,000+ messages/min at 99.9% reliability, with multi-vendor failover
+- **Multi-tenant AI agent platform** on LangGraph: a workflow engine that compiles visual graphs into state machines, and a coding agent that opens verified GitHub PRs
+- **Search and API performance**: OpenSearch over 30M+ records (60% faster search), and 35% faster responses across 100+ FastAPI endpoints
 
-- 📫 How to reach me **arjunaravind748@gmail.com**
+### Open source
 
----
+- [**moderato**](https://github.com/Arjun-Aravind/moderato): async rate limiting for FastAPI, on [PyPI](https://pypi.org/project/moderato/). Fixed window, token bucket and sliding window as atomic Lua scripts on Redis server time. One round trip per check, ~8.4k checks/s, 240+ tests and published benchmarks.
 
-NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+### How I build
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-aravind&theme=gotham&hide_border=true&layout=compact&langs_count=6" alt="Arjun-Aravind" align="right">
-
-<h3 align="left">Programming Lanugages I have worked with:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a>
-  <a href="https://www.gnu.org/home.en.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNUBASH-%234EAA25?style=for-the-badge&logo=GNUBASH&logoColor=black" alt="Shell"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
-
-
-<h3 align="left">Frontend Technologies</h3>
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> </a>
-</p>
-
-<h3 align="left">Backend Technologies</h3>
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=black" alt="SpringBoot"/> </a>
-</p>
-
-<h3 align="left">Databases</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB"/> </a>
-</p>
-
-<h3 align="left">Others</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/kalilinux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Kali Linux"/> </a>
-</p>
+- Correctness first under concurrency: atomic operations and one source of time
+- Plan for the dependency that fails: retries, failover and backpressure built in from day one
+- Measure before optimizing, and publish benchmarks others can reproduce
+- Keep it simple until load proves otherwise
 
 ---
-<br>
 
-<p align="left">
-<a href="https://github.com/Arjun-Aravind/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Arjun-Aravind&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Arjun-Aravind Github-Readme-stats"/></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/aravindarjun/">LinkedIn</a> · arjunaravind748@gmail.com</p>
